@@ -1,0 +1,2 @@
+rootProject.name='memorize72verses'
+include ':app'
